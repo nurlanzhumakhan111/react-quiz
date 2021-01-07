@@ -1,0 +1,23 @@
+.Finished {
+  padding: 20px;
+  color: #fff;
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  margin: 0 10px;
+}
+.Finished ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.Finished ul li {
+}
+.Finished ul li i {
+  margin-left: 10px;
+}
+.Finished ul li i.success{
+    color: rgba(161, 240, 69, .7)
+}
+.Finished ul li i.error{
+    color: rgba(240, 87, 108, .7)
+}
